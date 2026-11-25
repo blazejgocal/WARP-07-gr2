@@ -12,7 +12,6 @@ on:                            # obiekt zagnieżdżony
 env:
   PROJECT_PATH: "Warp07.Demo"
   DOTNET_VERSION: "10.0.x"
-  PROJECT_PATH: ./src/ProjectThatDoesNotExist/Project.csproj
 
 jobs:
   build:
